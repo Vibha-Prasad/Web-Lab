@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="studentinfo.css" ?>
+<student>
+    <USN>USN : 4VV17CS114</USN>
+    <name>NAME : VIBHA PRASAD</name>
+    <college>COLLEGE : VVCE</college>
+    <branch>BRANCH : Computer Science and Engineering</branch>
+    <year>YEAR : 2017</year>
+    <e-mail>E-Mail : vibhaprasad932@gmail.com</e-mail>
+</student>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="info.css" ?>
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+<students>
+<student>
+    <USN>4VV17CS065</USN>
+    <name>ANJU MARINA LOBO </name>
+    <college>VVCE</college>
+    <branch>Computer Science and Engineering</branch>
+    <year>2017</year>
+    <e-mail>anju@gmail.com</e-mail>
+</student>
+<student>
+    <USN>4VV17CS081</USN>
+    <name>SAMANTHA PAUL</name>
+    <college>VVCE</college>
+    <branch>Computer Science and Engineering</branch>
+    <year>2017</year>
+    <e-mail>samantha.me.paul@gmail.com</e-mail>
+</student>
+<student>
+    <USN>4VV17CS001</USN>
+    <name>VIBHA PRASAD</name>
+    <college>VVCE</college>
+    <branch>Computer Science and Engineering</branch>
+    <year>2017</year>
+    <e-mail>vibhaprasad932@gmail.com</e-mail>
+</student>
+</students>
+</html>
